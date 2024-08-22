@@ -1,1 +1,1 @@
-# WebTools_Simba
+# Web Application Tool to Visualize SIMBA
